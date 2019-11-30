@@ -1,0 +1,10 @@
+{
+    "id": "tvg",
+    "name": "Televisión de Galicia",
+    "active": true,
+    "adult": false,
+    "language": ["gal"],
+    "categories": [
+        "tvshow"
+    ]
+}
