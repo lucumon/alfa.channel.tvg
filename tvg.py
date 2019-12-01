@@ -55,4 +55,4 @@ def episodes(item):
     itemlist = []
     data = httptools.downloadpage(item.url).data
     patron = ''
-    episodematches
+    matches = scrapertools.find_multiple_matches(data, patron)

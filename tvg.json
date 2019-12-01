@@ -3,8 +3,10 @@
     "name": "Televisión de Galicia",
     "active": true,
     "adult": false,
-    "language": ["gal"],
+    "language": ["gal", "cast"],
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/331px-Televisi%C3%B3n_de_Galicia_Logo.svg.png",
     "categories": [
-        "tvshow"
+        "tvshow",
+        "movie"
     ]
 }
